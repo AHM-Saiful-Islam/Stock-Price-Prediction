@@ -1,5 +1,6 @@
 # Stock-Price-Prediction
 - Use Python
-- Data will be collected from online.
-- algorith will be decided in future.
-- Predict, analyse stock price.
+- Data will be collected online.
+- LSTM model is used.
+- MSE and R-Squared are measured.
+- Predict, and analyze stock price.
